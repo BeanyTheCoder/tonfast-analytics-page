@@ -1,8 +1,29 @@
-# React + Vite
+# Tonfast Analytics Page 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Analytics page for [tonfast.com](https://tonfast.com/)
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Screenshots 📷
+
+![image of figma design for the page](image.png)
+
+## Technologies To Use 🛠️
+
+- React.js
+- HTML & CSS
+- ObservableHQ
+- D3.js
+
+## Roadmap 🗺️
+
+## License 📝
+
+This project is licensed under the [License Name](link-to-license-file).
+
+## Contact 📧
+
+For any questions or feedback, feel free to reach out to me at alexanderafoko@gmail.com
+
+## Project Status
+
+Still in development.
